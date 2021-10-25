@@ -39,7 +39,7 @@
 DoWhile2021 é um evento produzido pela Rocketseat e nesta NLW foi construído um chat para o evento. Projeto desenvolvido durante a Next Level Week Heat. 
 
 ### ✅ Demonstração
-<img src="https://github.com/gabriel-nt/do-while2021/blob/master/frontend/src/assets/capa.png" />
+<img src="https://github.com/gustavo-nt/dowhile/blob/master/web/src/assets/capa.png" />
 
 ### ⚙ Pré-requisitos
 
