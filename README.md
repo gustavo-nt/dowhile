@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gustavo-nt/dowhile/blob/master/web/src/assets/logo.svg" alt="logo" />
+  <img src="https://github.com/gustavo-nt/dowhile/blob/master/web/src/assets/logo.png" alt="logo" />
 </p>
 
 <h1 align="center">
